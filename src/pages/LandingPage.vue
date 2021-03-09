@@ -6,7 +6,7 @@
       </header>
       <hr>
       <div class="landing-page__description">
-          <p>Redefining 'Fun' Wedding Experiences</p>
+          <p>Recalibrating wedding experiences in Africa</p>
       </div>
     </div>
   </div>
