@@ -32,6 +32,7 @@ export default {
 .landing-page {
   max-width: 51rem;
   padding: 4rem 1.2rem;
+  overflow-y: auto;
 }
 .landing-page__description {
   font-size: 1.2rem;
